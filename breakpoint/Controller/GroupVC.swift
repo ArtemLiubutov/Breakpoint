@@ -1,5 +1,5 @@
 //
-//  FirstViewController.swift
+//  SecondViewController.swift
 //  breakpoint
 //
 //  Created by Artem Lubytov on 06.12.2017.
@@ -8,7 +8,7 @@
 
 import UIKit
 
-class FirstViewController: UIViewController {
+class GroupVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
